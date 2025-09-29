@@ -38,8 +38,4 @@ This project is a web application designed to automate the initial screening pro
   * **UI Library:** Ant Design
   * **Deployment:** Vercel
 
------
-
-## Getting Started
-    ```
    link : https://ai-interview-assistant-lovat.vercel.app/
